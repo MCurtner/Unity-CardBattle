@@ -150,7 +150,7 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
-  orthographic: 1
+  orthographic: 0
   orthographic size: 5
   m_Depth: -1
   m_CullingMask:
@@ -247,42 +247,54 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4306452523843052, guid: 23a589ce2b251eb499a026961ab305e3, type: 2}
+    - target: {fileID: 4898317613008688, guid: 759bc0e29db658c4cb6f8399d65b6378, type: 2}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4306452523843052, guid: 23a589ce2b251eb499a026961ab305e3, type: 2}
+    - target: {fileID: 4898317613008688, guid: 759bc0e29db658c4cb6f8399d65b6378, type: 2}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4306452523843052, guid: 23a589ce2b251eb499a026961ab305e3, type: 2}
+    - target: {fileID: 4898317613008688, guid: 759bc0e29db658c4cb6f8399d65b6378, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -5.13
       objectReference: {fileID: 0}
-    - target: {fileID: 4306452523843052, guid: 23a589ce2b251eb499a026961ab305e3, type: 2}
+    - target: {fileID: 4898317613008688, guid: 759bc0e29db658c4cb6f8399d65b6378, type: 2}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4306452523843052, guid: 23a589ce2b251eb499a026961ab305e3, type: 2}
+    - target: {fileID: 4898317613008688, guid: 759bc0e29db658c4cb6f8399d65b6378, type: 2}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4306452523843052, guid: 23a589ce2b251eb499a026961ab305e3, type: 2}
+    - target: {fileID: 4898317613008688, guid: 759bc0e29db658c4cb6f8399d65b6378, type: 2}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4306452523843052, guid: 23a589ce2b251eb499a026961ab305e3, type: 2}
+    - target: {fileID: 4898317613008688, guid: 759bc0e29db658c4cb6f8399d65b6378, type: 2}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4306452523843052, guid: 23a589ce2b251eb499a026961ab305e3, type: 2}
+    - target: {fileID: 4898317613008688, guid: 759bc0e29db658c4cb6f8399d65b6378, type: 2}
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 1497268099210546, guid: 23a589ce2b251eb499a026961ab305e3, type: 2}
+    - target: {fileID: 1758844969287142, guid: 759bc0e29db658c4cb6f8399d65b6378, type: 2}
+      propertyPath: m_Name
+      value: SpellCard
+      objectReference: {fileID: 0}
+    - target: {fileID: 4898317613008688, guid: 759bc0e29db658c4cb6f8399d65b6378, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1797673856732412, guid: 759bc0e29db658c4cb6f8399d65b6378, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1472891273981356, guid: 759bc0e29db658c4cb6f8399d65b6378, type: 2}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 23a589ce2b251eb499a026961ab305e3, type: 2}
+  m_ParentPrefab: {fileID: 100100000, guid: 759bc0e29db658c4cb6f8399d65b6378, type: 2}
   m_IsPrefabParent: 0

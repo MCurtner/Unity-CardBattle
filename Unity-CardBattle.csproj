@@ -75,6 +75,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BetterCardRotation.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\EndTurnButton.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\GlowBlink.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\Outlines by N Yoda\BoxOutline.cs" />
